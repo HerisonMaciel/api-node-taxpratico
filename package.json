@@ -1,0 +1,19 @@
+{
+  "name": "api-taxpratico",
+  "version": "1.0.0",
+  "description": "api para teste tax pratico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "tax",
+    "pratico"
+  ],
+  "author": "Herison Maciel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
