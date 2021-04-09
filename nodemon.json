@@ -1,0 +1,13 @@
+{
+    "env" :{
+        "MYSQL_USER"        : "root",
+        "MYSQL_HOST"        : "localhost",
+        "MYSQL_PASSWORD"    : "",
+        "MYSQL_DATABASE"    : "taxpratico",
+        "MYSQL_PORT"        : 3306,
+
+
+        "CAMINHO"           : "http://localhost:5001/",
+        "KEY"               : "525CFD00-B49C-4CA0-89AF-C0BD5D4433B0"
+    }
+}   
